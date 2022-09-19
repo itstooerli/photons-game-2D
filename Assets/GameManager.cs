@@ -50,4 +50,12 @@ public class GameManager : MonoBehaviour
         cyanLight.GetComponent<Rigidbody2D>().velocity = new Vector2(0.6f, -0.8f) * lightSpeed;
 
     }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+    }
 }
