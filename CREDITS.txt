@@ -1,0 +1,3 @@
+Thanks to the below authors for their assets:
+-- Score and Time [Game Sound Solution] - Unity Asset Store
+-- Score Beep [edwardszakal] - https://freesound.org/people/edwardszakal/sounds/514160/
